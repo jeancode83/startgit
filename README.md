@@ -30,3 +30,4 @@ Pour faciliter l'envoi des fichiers sur le projet distant crééer une clée SSH
 
 ## Création d'un fichier index
 Réalisation du premier exercice: index.html
+Création du dossier scss
